@@ -1,4 +1,10 @@
 ## Olá! Me chamo Nilton Silva,
+Estou em processo de aprendizagem, resolvi mudar  de área, e desde então me dedico a estudar programação. Tinha uma empresa que finalizei no meio da pandemia na  qual trabalhei por 9 anos , como sempre me interessei pela área de tecnologia resolvi atuar na área de programação.
+
+Estou estudando principalmente Javascript, Typescript e o React mais recentemente, estou no início e são muitos desafios, porém estou muito motivado e focando sempre em tecnologias atuais e bons conteúdos.
+
+Me considero inquieto e curioso, gosto de  desafios e de aprender, estou sempre disponível para novidades e não tenho medo de mudanças. Sempre perseverante e esforçado! E bem humorado, porque a vida é  boa  demais pra ficar triste ;D
+
 <div align="center">
   <a href="https://github.com/niltonsilva1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=niltonsilva1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
